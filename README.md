@@ -35,6 +35,7 @@ Questions may be sent to:
 ## Test Instructions
 
 To test the project, download all the source files. Then run index.js using node (node index.js) in a console.
+A demo of the project is available here [video](https://youtu.be/RV-46pBJFSI)
 ## Usage Information
 
 To use the project, run index.js. Then answer the questions prompted.
