@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cristino4/9-professional-readme-generator#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.2.4",
+    "writer": "^1.0.0"
   }
 }
